@@ -5,7 +5,7 @@ import os
 app = Flask(__name__)
 
 # 🔑 Replace this with your actual API key or load from environment variables
-openai.api_key = "sk-Y2xqlD1kP76MlfLeaYajhtQ6SZl2Ra1JYpdPsJSxk3WbbgnV"
+openai.api_key = "ENTER_YOUR_OPENAI_API_KEY_HERE"
 
 from google.oauth2.credentials import Credentials
 from google_auth_oauthlib.flow import InstalledAppFlow
