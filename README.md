@@ -1,4 +1,4 @@
-<h1 align="center">🎙️ Voice AI Agent</h1>
+<h1 align="center"> Voice AI Agent</h1>
 <p align="center">
   <i>“Your own smart assistant that listens, talks back, and even schedules meetings!”</i>
 </p>
