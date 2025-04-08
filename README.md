@@ -16,12 +16,6 @@ This is an AI-powered voice assistant built using:
 
 ---
 
-## 📸 Demo
-
-> Coming soon: GIF / Video showing the voice interaction and auto-meeting creation.
-
----
-
 ## 📁 Project Structure
 
 ```bash
