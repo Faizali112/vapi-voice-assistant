@@ -146,19 +146,6 @@ If someone else wants to use this project:
 
 ---
 
-## 📄 License
-
-MIT License — Free to use, modify, and distribute. Just don’t forget to use your **own API keys**.
-
----
-
-## 🤝 Contribute
-
-Contributions, issues, and feature requests are welcome!  
-Feel free to fork the repo and submit a pull request.
-
----
-
 ## 💬 Questions?
 
 Message me on GitHub or open an issue if you get stuck.  
