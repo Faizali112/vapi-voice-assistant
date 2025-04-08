@@ -1,5 +1,5 @@
 {
-  "name": "voice-assistant",
+  "name": "voice-ai-agent",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -12,6 +12,9 @@
   "type": "commonjs",
   "dependencies": {
     "axios": "^1.8.4",
-    "dotenv": "^16.4.7"
+    "body-parser": "^2.2.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^5.1.0"
   }
 }
